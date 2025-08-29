@@ -21,7 +21,8 @@ MOROTO
 ABIM
 AMUDAT
 NAPAK
-10 Sub-Counties with lowest total yield:
+
+* 10 Sub-Counties with lowest total yield:
 
 SOUTHERN DIVISION
 NORTHERN DIVISION
@@ -33,13 +34,15 @@ LODIKO
 KAABONG EAST
 NGOLERIET
 TAPAC
-4 Districts with lowest sorghum yield per HA:
+
+* 4 Districts with lowest sorghum yield per HA:
 
 MOROTO
 NAPAK
 AMUDAT
 KAABONG
-10 Sub-Counties with lowest sorghum yield per HA:
+
+* 10 Sub-Counties with lowest sorghum yield per HA:
 
 LOPEEI
 RUPA
@@ -51,13 +54,15 @@ NORTHERN DIVISION
 NADUNGET
 NGOLERIET
 AMUDAT TOWN COUNCIL
-4 Districts with lowest maize yield per HA:
+
+* 4 Districts with lowest maize yield per HA:
 
 MOROTO
 NAPAK
 KAABONG
 ABIM
-10 Sub-Counties with lowest maize yield per HA:
+
+* 10 Sub-Counties with lowest maize yield per HA:
 
 SOUTHERN DIVISION
 TAPAC
@@ -69,10 +74,11 @@ KATIKEKILE
 NADUNGET
 KALAPATA
 KAABONG EAST
-Correlation between population size and total yield
+
+* Correlation between population size and total yield
 
 There is a weak but positive correlation between population size and total yield.
 
-Correlation between crop area and total yield
+* Correlation between crop area and total yield
 
 There is a strong and positive correlation between crop area and total yield.
