@@ -17,63 +17,63 @@ Understanding the areas that have the lowest yields in order for the NGO to prio
 # Key Findings
 * 4 Districts with lowest total yield:
 
-  - MOROTO
-  - ABIM
-  - AMUDAT
-  - NAPAK
+    - MOROTO
+    - ABIM
+    - AMUDAT
+    - NAPAK
 
 * 10 Sub-Counties with lowest total yield:
 
- - SOUTHERN DIVISION
- - NORTHERN DIVISION
- - AMUDAT TOWN COUNCIL
- - NAKAPIRIPIRIT TOWN COUNCIL
- - KAABONG TOWN COUNCIL
- - KATIKEKILE
- - LODIKO
- - KAABONG EAST
- - NGOLERIET
- - TAPAC
+   - SOUTHERN DIVISION
+   - NORTHERN DIVISION
+   - AMUDAT TOWN COUNCIL
+   - NAKAPIRIPIRIT TOWN COUNCIL
+   - KAABONG TOWN COUNCIL
+   - KATIKEKILE
+   - LODIKO
+   - KAABONG EAST
+   - NGOLERIET
+   - TAPAC
 
 * 4 Districts with lowest sorghum yield per HA:
 
- - MOROTO
- - NAPAK
- - AMUDAT
- - KAABONG
+   - MOROTO
+   - NAPAK
+   - AMUDAT
+   - KAABONG
 
 * 10 Sub-Counties with lowest sorghum yield per HA:
 
- - LOPEEI
- - RUPA
- - SOUTHERN DIVISION
- - LOKOPO
- - LOTOME
- - MATANY
- - NORTHERN DIVISION
- - NADUNGET
- - NGOLERIET
- - AMUDAT TOWN COUNCIL
+   - LOPEEI
+   - RUPA
+   - SOUTHERN DIVISION
+   - LOKOPO
+   - LOTOME
+   - MATANY
+   - NORTHERN DIVISION
+   - NADUNGET
+   - NGOLERIET
+   - AMUDAT TOWN COUNCIL
 
 * 4 Districts with lowest maize yield per HA:
 
- - MOROTO
- - NAPAK
- - KAABONG
- - ABIM
+   - MOROTO
+   - NAPAK
+   - KAABONG
+   - ABIM
 
 * 10 Sub-Counties with lowest maize yield per HA:
 
- - SOUTHERN DIVISION
- - TAPAC
- - NORTHERN DIVISION
- - MATANY
- - LOTOME
- - NGOLERIET
- - KATIKEKILE
- - NADUNGET
- - KALAPATA
- - KAABONG EAST
+   - SOUTHERN DIVISION
+   - TAPAC
+   - NORTHERN DIVISION
+   - MATANY
+   - LOTOME
+   - NGOLERIET
+   - KATIKEKILE
+   - NADUNGET
+   - KALAPATA
+   - KAABONG EAST
 
 * Correlation between population size and total yield
 
