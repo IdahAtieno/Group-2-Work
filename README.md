@@ -91,24 +91,24 @@ The analysis highlights the following districts and sub-counties with the lowest
 
   - Sub-Counties: Southern Division, Northern Division, Amudat Town Council, Nakapiripirit Town Council, Kaabong Town Council, Katikekile, Lodiko, Kaabong East, Ngoleriet, and Tapac.
 
-Regions with Lowest Maize Yield per HA
+* Regions with Lowest Maize Yield per HA
 The analysis identifies the following districts and sub-counties that are struggling specifically with sorghum production.
 
-Districts: Moroto, Napak, Amudat, and Kaabong.
+  - Districts: Moroto, Napak, Amudat, and Kaabong.
 
-Sub-Counties: Lopeei, Rupa, Southern Division, Lokopo, Lotome, Matany, Northern Division, Nadunget, Ngoleriet, and Amudat Town Council.
+  - Sub-Counties: Lopeei, Rupa, Southern Division, Lokopo, Lotome, Matany, Northern Division, Nadunget, Ngoleriet, and Amudat Town Council.
 
-Regions with Lowest Maize Yield per HA The findings point to the districts and sub-counties with the lowest maize yields per hectare as follows:
-Districts: Moroto, Napak, Kaabong, and Abim.
+* Regions with Lowest Maize Yield per HA The findings point to the districts and sub-counties with the lowest maize yields per hectare as follows:
+  - Districts: Moroto, Napak, Kaabong, and Abim.
 
-Sub-Counties: Southern Division, Tapac, Northern Division, Matany, Lotome, Ngoleriet, Katikekile, Nadunget, Kalapata, and Kaabong East.
+  - Sub-Counties: Southern Division, Tapac, Northern Division, Matany, Lotome, Ngoleriet, Katikekile, Nadunget, Kalapata, and Kaabong East.
 
-There is a weak but positive correlation between population size and total yield, suggesting that as the population increases, total yield tends to increase as well.
+* There is a weak but positive correlation between population size and total yield, suggesting that as the population increases, total yield tends to increase as well.
 
-The more area a region has allocated for crops, the higher the chance of a bigger yield.
+* The more area a region has allocated for crops, the higher the chance of a bigger yield.
 
-Recommendations and Next steps
-If the organization has limited resources, focus should be made on the most affected areas first before proceeding to the other areas in the region.
-As the region also suffers from pests and disease outbreak, it would be important to explore the effect of these on crop production in the different regions as well.
-It is important to also analyze the impact of farming practices used across the different regions crop yields.
-Population is a huge factor in farming. It is worth exploring how population density and not just the absolute numbers, affects productivity.
+# Recommendations and Next steps
+* If the organization has limited resources, focus should be made on the most affected areas first before proceeding to the other areas in the region.
+* As the region also suffers from pests and disease outbreak, it would be important to explore the effect of these on crop production in the different regions as well.
+* It is important to also analyze the impact of farming practices used across the different regions crop yields.
+* Population is a huge factor in farming. It is worth exploring how population density and not just the absolute numbers, affects productivity.
